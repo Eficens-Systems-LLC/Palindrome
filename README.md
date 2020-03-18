@@ -1,5 +1,5 @@
 # Palindrome
-Saikiran
+saikiran
 Create a Java application to show if the input value is a Palindrome or not
 Create a branch with your name and only work in your repository.
 Clone this repository to your local system.
